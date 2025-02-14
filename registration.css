@@ -1,0 +1,9 @@
+*{
+    background-color:orange;text-align: center;
+}
+h1{
+    text-transform:uppercase;text-decoration-color: blue;
+}
+p{
+    text-transform:uppercase;padding:1px 1px 1px 1px;text-size-adjust:100px;
+}
